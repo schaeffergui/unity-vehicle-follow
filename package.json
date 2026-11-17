@@ -1,0 +1,21 @@
+{
+  "name": "com.schaeffergui.vehicle-follow",
+  "displayName": "Vehicle Follow",
+  "version": "0.1.0",
+  "unity": "6000.0",
+  "license": "MIT",
+  "description": "Modular lateral vehicle-following, alignment, and unloading-zone state machine for Unity.",
+  "keywords": ["vehicle", "follow", "ai", "steering", "wheelcollider", "agriculture"],
+  "author": {
+    "name": "Guilherme Schaeffer",
+    "url": "https://schaeffergui.github.io/"
+  },
+  "dependencies": {},
+  "samples": [
+    {
+      "displayName": "WheelCollider Demo",
+      "description": "Prefab-free demo scene bootstrapper spawning a moving leader and a WheelCollider-driven follower.",
+      "path": "Samples~/WheelColliderDemo"
+    }
+  ]
+}
