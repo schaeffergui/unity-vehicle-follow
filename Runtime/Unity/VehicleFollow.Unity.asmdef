@@ -1,0 +1,16 @@
+{
+  "name": "VehicleFollow.Unity",
+  "rootNamespace": "VehicleFollow.Unity",
+  "references": [
+    "VehicleFollow.Core"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}
