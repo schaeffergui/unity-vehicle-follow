@@ -1,0 +1,17 @@
+{
+  "name": "VehicleFollow.Samples.WheelColliderDemo",
+  "rootNamespace": "VehicleFollow.Samples",
+  "references": [
+    "VehicleFollow.Core",
+    "VehicleFollow.Unity"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}
